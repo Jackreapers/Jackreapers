@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jackreapers
 - 👀 I’m interested in Software Engineer
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
